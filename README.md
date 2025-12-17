@@ -17,7 +17,7 @@ Proyecto desarrollado de manera **100% individual**.
 ---
 
 ## 🕒 Duración del desarrollo
-**9 meses**  
+**11 meses**  
 (Análisis de requerimientos, diseño, desarrollo, pruebas e implementación)
 
 ---
