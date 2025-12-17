@@ -1,4 +1,4 @@
-# SGA Posgrado V5
+# SGA Posgrado V6
 
 ## Sistema de Gestión Administrativa y Académica de Posgrado
 
